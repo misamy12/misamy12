@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @misamy12
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 oi, eu sou a misamy
+- 👀 eu estou interresada em aprender a programar
+- 🌱 eu estou aprendendo recentemente a programar a linguagem JavisScript e scratch
+eu gosto muito de ler ;)
 
-<!---
-misamy12/misamy12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
